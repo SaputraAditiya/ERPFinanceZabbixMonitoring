@@ -76,6 +76,10 @@ Severity levels:
 
 ---
 
+## Dashboard Overview
+![Dashboard](screenshots/Dashboard.png)
+![Problem-Widget](screenshots/Problem-Widget.png)
+
 ## 🗺️ Topology Map Visualization
 
 A network topology map is created to visualize ERP Finance services.
