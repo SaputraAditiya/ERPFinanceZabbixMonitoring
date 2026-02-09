@@ -1,4 +1,4 @@
-# ERP Finance Monitoring باستخدام Zabbix
+# ERP Finance Monitoring Zabbix
 
 ## 📌 Project Overview
 
